@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'thalahemanth', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -10,31 +10,25 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
+        linkedin: '',
+        twitter: '',
         facebook: '',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://arifszn.github.io',
+        website: '',
         phone: '',
-        email: 'contact@arifszn.com'
+        email: ''
     },
     skills: [
-        'PHP',
-        'Laravel',
         'JavaScript',
         'React.js',
-        'Vue.js',
+        'React Native',
         'Node.js',
-        'Jquery',
-        'MySQL',
         'Git',
         'CSS',
-        'Antd',
         'Tailwind',
-        'Bootstrap',
     ],
     experiences: [
         { 
